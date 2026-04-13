@@ -1,1 +1,1 @@
-print("Anna Luiza Braga de Albuquerque")
+print("Anna Luiza Braga")
